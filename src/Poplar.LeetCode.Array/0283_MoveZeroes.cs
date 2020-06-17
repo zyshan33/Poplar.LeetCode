@@ -1,10 +1,13 @@
 ﻿namespace Poplar.LeetCode.Array
 {
+    /// <summary>
+    /// https://leetcode.com/problems/move-zeroes
+    /// https://leetcode-cn.com/problems/move-zeroes
+    /// </summary>
     public class MoveZeroesLc
     {
         /// <summary>
-        /// https://leetcode.com/problems/move-zeroes
-        /// https://leetcode-cn.com/problems/move-zeroes
+        /// 时间复杂度是O(n)。<br/>
         /// 定义一个指针"index"并且初始化为零，它的定义为最左边为零的数字，最开始的时候，不管最左边的值是否为零，接下来开始循环<br/>
         /// 第一次循环，判断当前遍历的数是否为零：<br/>
         /// 如果不为零，则将nums[index] 的值替换为nums[i]的值，此时i和index值相等，所以直接将index值自增1。<br/>
