@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Poplar.LeetCode.LinkedList
+namespace Poplar.LeetCode.LinkedListLc
 {
     public class ListNode
     {

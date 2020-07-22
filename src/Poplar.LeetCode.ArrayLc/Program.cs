@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Poplar.LeetCode.Array
+namespace Poplar.LeetCode.ArrayLc
 {
     class Program
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Poplar.LeetCode.DynamicProgramming
+namespace Poplar.LeetCode.DynamicProgrammingLc
 {
     /// <summary>
     /// https://leetcode-cn.com/problems/climbing-stairs/

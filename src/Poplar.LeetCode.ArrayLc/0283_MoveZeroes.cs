@@ -1,6 +1,7 @@
-﻿namespace Poplar.LeetCode.Array
+﻿namespace Poplar.LeetCode.ArrayLc
 {
     /// <summary>
+    /// 移动零
     /// https://leetcode.com/problems/move-zeroes
     /// https://leetcode-cn.com/problems/move-zeroes
     /// </summary>
